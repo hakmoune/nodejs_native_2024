@@ -1,0 +1,7 @@
+06/02/2024	19:56:20	3649e9d7-2063-47ed-9686-500e469cc5bc	Log event emitted !
+06/02/2024	19:56:26	00fa4c9f-5186-4844-9848-f412e39a28e0	Log event emitted !
+06/02/2024	19:56:33	802a0797-ed7d-489f-b9fe-a6c634a4c01c	Log event emitted !
+06/02/2024	19:56:38	5d80c3c1-80a0-4098-ba60-ce6b933fded7	Log event emitted !
+06/02/2024	19:58:40	46455df6-0853-48ba-be8a-b65e9095a7f7	Log event emitted !
+06/02/2024	20:03:16	5d846fa6-c146-48ce-850b-7a5e8ed8a5bf	Log event emitted !
+06/02/2024	20:08:51	ece23596-16a9-4935-baf8-0c0d9257e6fb	Log event emitted !
