@@ -1,0 +1,7 @@
+09/02/2024	19:24:29	ec8167d0-6ca2-47dc-b845-ebae46b77b74	/new-page.html	GET
+09/02/2024	19:24:29	ced1ed84-dba7-4312-bb4d-cf901fd4cb9d	/img/img_girl.jpg	GET
+09/02/2024	19:25:14	bd4bf445-fb49-4d34-a4d8-027748aedd1a	/new-page.html	GET
+09/02/2024	19:26:38	9e20c364-722b-46ae-8765-2205803e4fc7	/new-page.html	GET
+09/02/2024	19:27:08	5b5eca9c-c3b6-488e-af94-b130ca7a457b	/new-page.html	GET
+09/02/2024	19:27:08	0340fad7-cd46-40f7-8a97-d9ce77d68e1a	/img/img_girl.jpg	GET
+09/02/2024	19:28:35	57aefb95-eb15-41de-b9da-c54fc3927125	/	GET
